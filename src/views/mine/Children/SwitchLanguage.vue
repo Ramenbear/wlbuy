@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime : 2020-01-06 16:26:00
- * @Description: 个人中心->语言切换
- * @FilePath: /ddBuy/src/views/mine/Children/SwitchLanguage.vue
- -->
 <template>
   <div id="switchLanguage">
     <van-nav-bar :title="$t('mine.switchLanguage')"

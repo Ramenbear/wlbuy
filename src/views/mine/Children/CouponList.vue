@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime : 2019-12-24 14:01:13
- * @Description: 我的->我的优惠券
- * @FilePath: /ddBuy/src/views/mine/Children/CouponList.vue
- -->
 <template>
   <div id="couponList">
     <van-nav-bar :title="$t('mine.myBills')"

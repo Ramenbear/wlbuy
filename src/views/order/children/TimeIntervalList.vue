@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime : 2020-01-06 17:46:28
- * @Description: 订单模块->配送时间列表
- * @FilePath: /ddBuy/src/views/order/children/TimeIntervalList.vue
- -->
 <template>
   <div id="timeIntervalList">
     <!-- 时间选择器 -->

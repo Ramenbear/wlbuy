@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime: 2019-11-07 09:24:40
- * @Description: 订单模块->编辑地址
- * @FilePath: /ddBuy/src/views/order/children/children/EditAddress.vue
- -->
 <template>
   <div id="editAddress">
     <van-nav-bar :title="$t('order.editLocation')"

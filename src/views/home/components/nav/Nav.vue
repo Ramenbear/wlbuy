@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime : 2020-01-09 23:28:38
- * @Description: 首页->Nav组件
- * @FilePath: /ddBuy/src/views/home/components/nav/Nav.vue
- -->
 <template>
   <div id="wrapper">
     <van-grid :column-num="5"

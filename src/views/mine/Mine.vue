@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime : 2020-01-06 15:39:12
- * @Description: 我的
- * @FilePath: /ddBuy/src/views/mine/Mine.vue
- -->
 <template>
   <div id="mine">
     <van-nav-bar :title="$t('mine.title')"

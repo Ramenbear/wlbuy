@@ -1,12 +1,3 @@
-<!--
- * @Author: 极客James
- * @Motto: 求知若渴,虚心若愚
- * @Github: https://github.com/Geek-James/ddBuy
- * @掘金: https://juejin.im/user/5c4ebc72e51d4511dc7306ce
- * @LastEditTime : 2020-01-04 15:36:52
- * @Description: 首页->限时抢购
- * @FilePath: /ddBuy/src/views/home/components/flash/FlashFood.vue
- -->
 <template>
   <div id="flashFood">
     <div class="flashItemwrapper">
