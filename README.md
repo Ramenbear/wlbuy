@@ -93,7 +93,4 @@ npm run build
 ## 免责声明
 本项目为高仿项目,仅做技术交流和学习使用,非官方App,不建议用于商业目的,产生的一切侵权著作法律后果,与本作者无关。
 
-## License
-
-[MIT](https://github.com/Geek-James/ddBuy/blob/master/LICENSE)
 
