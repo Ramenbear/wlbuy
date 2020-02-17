@@ -47,10 +47,10 @@ Later,the whole project will be divided into several technical points and shared
 
 ```bash
 # clone project to local
-git clone https://github.com/Geek-James/ddBuy.git
+git clone https://github.com/Ramenbear/wlbuy.git
 
 # go to project catalog
-cd ddbuy
+cd wlbuy
 
 # install node package
 npm install
