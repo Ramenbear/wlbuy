@@ -1,33 +1,20 @@
 ## Summary
 
-**WlBuy** is an open source mobile e-commerce project,it's  build on [vue 2.x](https://github.com/vuejs/vue) and [vant 2.x](https://youzan.github.io/vant/#/zh-CN/intro).Use the latest Vue series technology and some excellent open source libraries,suce as [better-scroll](http://ustbhuangyi.github.io/better-scroll/doc/api.html)、 [moment.js](https://github.com/moment/moment/)、[twix.js](https://github.com/icambron/twix.js)、[pubsub-js](https://github.com/mroderick/PubSubJS),background data is built through [Easy-Mock](https://github.com/easy-mock/easy-mock). I believe that this project can help you no matter what stage.
+**WlBuy** is an open source mobile e-commerce project,it's  build on [vue 2.x] and [vant 2.x].Use the latest Vue series technology and some excellent open source libraries,suce as [better-scroll]、 [moment.js]、[twix.js]、[pubsub-js],background data is built through [Easy-Mock]. I believe that this project can help you no matter what stage.
 
 
 ## Preamble Preparation
 
->If you are new Vue engineer,highly recommended that you read [Vue Offical Documents](https://cn.vuejs.org/),If you already grasp Vue,so I strongly recommend that you code follow [Vue Code Style Guide](https://cn.vuejs.org/v2/style-guide/).
 
-You need to install [node](http://nodejs.org/) and  [git](https://git-scm.com/) locally.This project base on [ES2015+](http://es6.ruanyifeng.com/)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) 、[vue-cli](https://github.com/vuejs/vue-cli) 、[axios](https://github.com/axios/axios) and [vant-ui](https://youzan.github.io/vant/#/zh-CN/intro)，all of request data is base on [Easy Mock](https://github.com/easy-mock/easy-mock)，learning and understanding this knowledge in advance will help you a lot.
+You need to install [node] and  [git]locally.This project base on [ES2015+]、[vue]、[vuex]、[vue-router] 、[vue-cli] 、[axios]and [vant-ui]，all of request data is base on [Easy Mock]，learning and understanding this knowledge in advance will help you a lot.
 
 At the same time,a series of basic tutorial articles of Vue are provided. 
 
 Later,the whole project will be divided into several technical points and shared.
 
-- **Dismantling of core technologies:**
-   - [Animation of items flying into shopping cart](https://juejin.im/post/5dd55fd2f265da47dd1af944?utm_source=gold_browser_extension)
-   - [Log in to register](https://juejin.im/post/5dafc91a6fb9a04e4047a713)
-
 
 **Welcome find bug and if you have new ideas and suggestions,glad to you commit issue and pull request.**
 
-## Project Image
-[Project Struction Tree](https://github.com/Geek-James/ddBuy/blob/master/README.structure.md)
-
-![image](http://518taole.7-orange.cn/homePage.jpg)
-
-![image](http://518taole.7-orange.cn/categorytwo.jpg)
-
-![image](http://518taole.7-orange.cn/myOrder.jpg)
 
 ## How to run
 
@@ -54,13 +41,6 @@ Browser access http://localhost:8080
 npm run build
 ```
 
-## Online Browser preview
-
-[Please adjust the browser to mobile mode](http://ddbuy.7-orange.cn)
-
-## Mobile scanning Preview
-![](http://518taole.7-orange.cn/qrcode.gif)
-
 ## Browsers support
 
 Modern browsers and Internet Explorer 10+.
@@ -71,8 +51,4 @@ Modern browsers and Internet Explorer 10+.
 
 ## Disclaimer
 This project is a high immitation project,only for technical exchange and learning,not official App,commercial use not recommended,the legal liability for infringement of all works arising is irrelevant to the author.
-## License
 
-[MIT](https://github.com/Geek-James/ddBuy/blob/master/LICENSE)
-
-Copyright (c) 2019 Geek-James

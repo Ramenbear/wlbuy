@@ -1,26 +1,3 @@
-<div align=center>
-<img src="http://518taole.7-orange.cn/geek3.png" width = "100" height = "100" div align=center />
-</div>
-<p align="center">
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/Vue-2.6.10-brightgreen.svg" alt="Vue">
-  </a>
-  <a href="https://youzan.github.io/vant/#/zh-CN/intro">
-    <img src="https://img.shields.io/badge/Vant--UI-2.7.0-brightgreen.svg" alt="Vant-ui">
-  </a>
-  <img src="https://img.shields.io/badge/Node-8.9+-brightgreen.svg" alt="Vant-ui">
-   <a href="https://github.com/Geek-James">
-    <img src="https://img.shields.io/badge/build-passing-green.svg" alt="geekJames">
-  </a>
-  <a href="https://github.com/easy-mock/easy-mock">
-    <img src="https://img.shields.io/badge/EasyMock-1.6.0-brightgreen.svg" alt="easymock">
-  </a>
-    <a href="https://github.com/Geek-James/ddBuy/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </a>
-</p>
-
-
 ## 简介
 
 **wlbuy**是一个移动端开源电商项目，它基于vue 2.x和vant 2.x实现。使用了最新的Vue全家桶技术栈，以及一些优秀的开源库如[better-scroll]、 [moment.js]、[twix.js]、[pubsub-js],后台数据通过[Easy-Mock]搭建。支持多语言国际化,相信不管你是处于哪个段位的攻城狮，本项目都能帮助到你。
