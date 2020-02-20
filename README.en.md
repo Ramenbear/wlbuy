@@ -17,20 +17,6 @@ Later,the whole project will be divided into several technical points and shared
    - [Animation of items flying into shopping cart](https://juejin.im/post/5dd55fd2f265da47dd1af944?utm_source=gold_browser_extension)
    - [Log in to register](https://juejin.im/post/5dafc91a6fb9a04e4047a713)
 
-- **The series of basic Vue blog**:
-    - [The series of basic Vue(一) What the vue?](https://juejin.im/post/5d64f31ae51d4561db5e3a74)
-    - [The series of basic Vue(二) Vue instructions](https://juejin.im/post/5d652fb351882505a87a976b)
-    - [The series of basic Vue(三) Vue life cycle
-](https://juejin.im/post/5d6675716fb9a06b10273c1c)
-    - [The series of basic Vue(四) Custom instruction
-](https://juejin.im/post/5d673ad7f265da03934bf266)
-    - [The series of basic Vue(五) Components
-](https://juejin.im/post/5d67eac7e51d453c12504e3a)
-    - [The series of basic Vue(六) Component communication
-](https://juejin.im/post/5d699e2b6fb9a06ae3727746)
-    - [The series of basic Vue(七) Vue Router
-](https://juejin.im/post/5d6e6f366fb9a06b32609021)
-    - [The series of basic Vue(八) Vuex](https://juejin.im/post/5d6f5801f265da03da24b365)
 
 **Welcome find bug and if you have new ideas and suggestions,glad to you commit issue and pull request.**
 

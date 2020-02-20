@@ -20,39 +20,17 @@
   </a>
 </p>
 
-简体中文 | [English](https://github.com/Geek-James/ddBuy/blob/master/README.en.md)
 
 ## 简介
 
-**wlbuy**是一个移动端开源电商项目，它基于 [vue 2.x](https://github.com/vuejs/vue) 和 [vant 2.x](https://youzan.github.io/vant/#/zh-CN/intro)实现。使用了最新的Vue全家桶技术栈，以及一些优秀的开源库如[better-scroll](http://ustbhuangyi.github.io/better-scroll/doc/api.html)、 [moment.js](https://github.com/moment/moment/)、[twix.js](https://github.com/icambron/twix.js)、[pubsub-js](https://github.com/mroderick/PubSubJS),后台数据通过[Easy-Mock](https://github.com/easy-mock/easy-mock)搭建。支持多语言国际化,相信不管你是处于哪个段位的攻城狮，本项目都能帮助到你。
-
+**wlbuy**是一个移动端开源电商项目，它基于vue 2.x和vant 2.x实现。使用了最新的Vue全家桶技术栈，以及一些优秀的开源库如[better-scroll]、 [moment.js]、[twix.js]、[pubsub-js],后台数据通过[Easy-Mock]搭建。支持多语言国际化,相信不管你是处于哪个段位的攻城狮，本项目都能帮助到你。
 
 
 ## 前序准备
 
->如果你是刚入门Vue的小白墙裂建议过一遍[Vue官方文档](https://cn.vuejs.org/),如果你已经掌握了Vue,那么墙裂建议按照[Vue代码风格指南](https://cn.vuejs.org/v2/style-guide/)来写代码。
 
-你需要在本地安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)。本项目技术栈基于 [ES2015+](http://es6.ruanyifeng.com/)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) 、[vue-cli](https://github.com/vuejs/vue-cli) 、[axios](https://github.com/axios/axios) 和 [vant-ui](https://youzan.github.io/vant/#/zh-CN/intro)，所有的请求数据都使用[Mock.js](https://github.com/nuysoft/Mock)进行模拟，提前了解和学习这些知识会对使用本项目有很大的帮助。
+你需要在本地安装 [node]和 [git]。本项目技术栈基于 [ES2015+]、[vue]、[vuex]、[vue-router] 、[vue-cli] 、[axios] 和 [vant-ui]，所有的请求数据都使用[Mock.js]进行模拟，提前了解和学习这些知识会对使用本项目有很大的帮助。
 
-同时配套了Vue基础系列教程文章，适合小白入门Vue,后期会把整个ddBuy项目拆分些技术文章出来。
-
-- **核心技术拆解**:
-  - [服务器搭建Easy-Mock](https://juejin.im/post/5dfdcda1f265da33a55fa5a0)
-  - [数据抓包](https://juejin.im/post/5d7f097fe51d453b8b5fa680)
-  - [商品飞入购物车动画](https://juejin.im/post/5dd55fd2f265da47dd1af944?utm_source=gold_browser_extension)
-  - [登录注册](https://juejin.im/post/5dafc91a6fb9a04e4047a713)
-  - [封装SVG组件](https://juejin.im/post/5dea5745f265da33bd496f50)
-  - [个人中心](https://juejin.im/post/5dbf9613f265da4d32001eb0)
-
-
-## 完整项目图
-[项目架构树](https://github.com/Geek-James/ddBuy/blob/master/README.structure.md)
-
-![image](http://518taole.7-orange.cn/homePage.jpg)
-
-![image](http://518taole.7-orange.cn/categorytwo.jpg)
-
-![image](http://518taole.7-orange.cn/myOrder.jpg)
 
 ## 如何运行
 
@@ -76,13 +54,6 @@ npm run serve
 # 构建生产环境
 npm run build
 ```
-
-## 在线浏览器预览
-
-[请把浏览器切换到移动端模式](http://ddbuy.7-orange.cn)
-
-## 手机端扫码预览
-![](http://518taole.7-orange.cn/qrcode.gif)
 
 ## 浏览器支持
 
